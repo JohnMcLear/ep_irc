@@ -1,0 +1,13 @@
+{
+  "parts": [
+    {
+      "name": "irc",
+      "hooks": {
+        "eejsBlock_mySettings": "ep_irc/irc"
+      },
+      "client_hooks": {
+        "postAceInit": "ep_irc/static/js/postAceInit:postAceInit"
+      }
+    }
+  ]
+}
