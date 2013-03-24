@@ -1,6 +1,6 @@
 {
   "name": "ep_irc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "video", "etherpad", "chat", "irc"
   ],
