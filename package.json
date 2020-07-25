@@ -1,8 +1,11 @@
 {
   "name": "ep_irc",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "keywords": [
-    "video", "etherpad", "chat", "irc"
+    "video",
+    "etherpad",
+    "chat",
+    "irc"
   ],
   "description": "Adds an embedded Freenode Web chat client and autojoins to #Etherpad and #Etherpad-Lite-Dev channels",
   "contributors": [
